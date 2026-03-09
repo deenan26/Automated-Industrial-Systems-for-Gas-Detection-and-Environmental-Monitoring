@@ -1,0 +1,2 @@
+# Automated-Industrial-Systems-for-Gas-Detection-and-Environmental-Monitoring
+Automated industrial safety robot for gas leak detection and environmental monitoring using an 8051 microcontroller. The system integrates gas sensors, IR sensors, and ultrasonic sensors to autonomously navigate industrial environments, detect hazardous gases, and provide real-time alerts for improved safety and monitoring.
